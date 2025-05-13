@@ -93,6 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 📧 Contact
 
-Barbara Lara - [@barbaritalaram](https://github.com/barbaritalaram)
+Barbarita Lara - [@barbaritalaram](https://github.com/barbaritalaram)
 
 Project Link: [https://github.com/barbaritalaram/dicom2png](https://github.com/barbaritalaram/dicom2png) 
