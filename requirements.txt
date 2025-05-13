@@ -1,0 +1,2 @@
+pydicom==2.4.3
+Pillow==10.2.0 
